@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Projects\\BattleBlaster\\Source\\BattleBlaster\\BattleBlaster.Build.cs",
+		"C:\\Projects\\BattleBlaster\\Source\\BattleBlaster.Target.cs",
+		"C:\\Projects\\BattleBlaster\\Source\\BattleBlasterEditor.Target.cs"
+	],
+	"EngineVersion": "5.7.4"
+}

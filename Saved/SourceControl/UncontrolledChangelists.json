@@ -1,0 +1,32 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Projects/BattleBlaster/Content/Maps/Level_1_BuiltData.uasset",
+				"C:/Projects/BattleBlaster/Content/Maps/Level_1.umap",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_Tank.uasset",
+				"C:/Projects/BattleBlaster/Content/Input/IMC_Default.uasset",
+				"C:/Projects/BattleBlaster/Content/Input/IA_Move.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_GameMode.uasset",
+				"C:/Projects/BattleBlaster/Content/Input/IA_Rotate.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_Tower.uasset",
+				"C:/Projects/BattleBlaster/Content/Input/IA_Fire.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_Projectile.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_BattleBlasterPlayerController.uasset",
+				"C:/Projects/BattleBlaster/Content/Maps/Level_2.umap",
+				"C:/Projects/BattleBlaster/Content/Maps/Level_3.umap",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_BattleBlasterGameInstance.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/WBP_ScreenMessage.uasset",
+				"C:/Projects/BattleBlaster/Content/Assets/Audio/Thud_Audio.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_HitCameraShake.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_DeathCameraShake.uasset",
+				"C:/Projects/BattleBlaster/Content/Input/IA_Dash.uasset",
+				"C:/Projects/BattleBlaster/Content/Input/IA_Speed.uasset",
+				"C:/Projects/BattleBlaster/Content/Blueprints/BP_CameraShake.uasset"
+			]
+		}
+	]
+}

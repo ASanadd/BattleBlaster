@@ -60,7 +60,6 @@ ABasePawn
 - `UHealthComponent` is a reusable actor component
 - `ABattleBlasterGameMode` coordinates all actors and game state
 - `UBattleBlasterGameInstance` persists across levels for level management
-- `TWeakObjectPtr` used for cross-actor references to safely handle actor lifetime
 
 ---
 
